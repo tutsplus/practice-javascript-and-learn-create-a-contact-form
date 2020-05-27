@@ -16,7 +16,7 @@ Each lesson's code is contained within a folder named with the corresponding les
 
 These are source files for the Envato Tuts+ course: [Practice JavaScript and Learn: Create a Contact Form][published url]
 
-Available on [Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
+Available on [Envato Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
 
 [published url]: https://code.tutsplus.com/courses/practice-javascript-and-learn-create-a-contact-form
 [instructor url]: https://tutsplus.com/authors/jeremy-mcpeak
